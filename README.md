@@ -13,6 +13,16 @@ On va demander à l'IA de nous aider, et elle va nous énerver à mort.
 Stream
 ------
 
+### Vendredi 10 Juillet 2026
+
+friendly_0day me parle de l'ia GLM. La preuve :
+
+- 16:47 ?friendly_0day: quand tu vois les bench de GLM5.2 de z.ai ils ont 6 mois de retard max
+- 16:48 ?friendly_0day: sur chat.z.ai
+- 16:48 ?friendly_0day: c'est l'ia GLM
+- 16:49 ?friendly_0day: ia chinese
+- 16:50 ?friendly_0day: tu fais de l'info depuis longtemps ?
+
 ### Jeudi 9 Juillet 2026
 
 Mon micro est à chier, je vais tester le **micro de ma barre de son** : Zéro filtre OBS, ça va être infernal.
@@ -42,3 +52,7 @@ uv run main.py
 - Claude Code = Pas de formule gratuite
 - Cline = En cours de test, activable sur la barre gauche de VS Code
     + Thinking... = Freezé = Nul = Indigne de 2026. Il devrait timeout pour relancer, ou alors, timeout pour me prévenir.
+
+### TODO
+
+- La prochaine fois, mettre le code en public sur Github pour se prendre des Pull Requests.
