@@ -8,7 +8,7 @@ Nous avons le PDF suivant : `Liste entreprises RGE Muretain Agglo 202602.pdf`.
 
 Il faut juste **extraire les données** de ce PDF.
 
-On va demander à l'IA de nous aider, et elle va nous énerver à mort.
+On va demander à l'IA de nous aider, et on sait d'avance qu'elle va nous énerver à mort.
 
 Stream
 ------
