@@ -1,8 +1,15 @@
 rge-list
 ========
 
+Dépôt
+-----
+
+https://github.com/luc2/rge-list
+
 Objectif
 --------
+
+### Étape 1
 
 Nous avons le PDF suivant : `Liste entreprises RGE Muretain Agglo 202602.pdf`.
 
@@ -10,14 +17,26 @@ Il faut juste **extraire les données** de ce PDF.
 
 On va demander à l'IA de nous aider, et on sait d'avance qu'elle va nous énerver à mort.
 
-https://github.com/luc2/rge-list
+Résultat :
+
+- `entreprises_rge.csv`
+- `entreprises_rge.json`
+
+Mais malheureusement, j'ai perdu le code source :)
+
+### Étape 2
+
+Récupérer des **évaluations** sur ces entreprises, afin de choisir les meilleures pour leur demander un devis pour la réparation de la fenêtre... de quelle fenêtre je parle ? ÇA NE VOUS REGARDE PAS !!!!
+
+Où récupérer des évaluations ? Euh... de **Google Maps** je pense...
 
 Stream
 ------
 
 ### Dimanche 2 Août 2026
 
-Monsieur Shape581 tente de le faire en C#...
+1. Monsieur Shape581 tente de le faire en C#...
+2. Je me suis dégonflé sur l'extraction PDF, j'ai perdu trop de temps avec ça, comme j'ai déjà les données en CSV et JSON, je vais les utiliser, même si j'ai perdu le code source qui permet de les extraire.
 
 ### Vendredi 10 Juillet 2026
 
