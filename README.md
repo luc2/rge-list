@@ -10,8 +10,14 @@ Il faut juste **extraire les données** de ce PDF.
 
 On va demander à l'IA de nous aider, et on sait d'avance qu'elle va nous énerver à mort.
 
+https://github.com/luc2/rge-list
+
 Stream
 ------
+
+### Dimanche 2 Août 2026
+
+Monsieur Shape581 tente de le faire en C#...
 
 ### Vendredi 10 Juillet 2026
 
