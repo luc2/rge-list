@@ -89,6 +89,7 @@ def main() -> None:
 
     column_x = [candidate["x"] for candidate in column_candidates[-6:]]
     column_x.sort()
+    column_x[3] -= 16
     pprint(column_x)
 
     for page in pages:
@@ -107,7 +108,7 @@ def main() -> None:
             if last_x and x0 < last_x:
                 # print("currentline =", current_line)
                 current_line = char["text"]
-                print(current_row)
+                # print(current_row)
                 current_row = [""] * len(column_x)
             else:
                 current_line += char["text"]
