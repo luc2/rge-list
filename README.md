@@ -6,6 +6,10 @@ Dépôt
 
 https://github.com/luc2/rge-list
 
+Branche actuelle : `feat/ratings`
+
+(c'est le bordel de ce projet)
+
 Objectif
 --------
 
@@ -36,6 +40,9 @@ Stream
 ### Dimanche 2 Août 2026
 
 1. Monsieur Shape581 tente de le faire en C#...
+
+![Application desktop par Shape581](Shape581.png)
+
 2. Je me suis dégonflé sur l'extraction PDF, j'ai perdu trop de temps avec ça, comme j'ai déjà les données en CSV et JSON, je vais les utiliser, même si j'ai perdu le code source qui permet de les extraire.
 
 ### Vendredi 10 Juillet 2026
