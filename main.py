@@ -30,7 +30,7 @@ def main() -> None:
     with pdfplumber.open(PDF_FILENAME) as pdf:
         for page in pdf.pages:
             # print(page.chars)
-            chars = sorted(page.chars, key=lambda char: (round(char["top"]), char["x0"]))
+            chars = sorted(page.chars, key=lambda char: (round(char["top"]), char["x0"]))  # Failed: Messes up when multi-line rows
             pages.append(chars)
 
     column_candidates = list()
@@ -62,6 +62,7 @@ def main() -> None:
         #         pprint(line)
 
         last_x = None
+        last_top = None
         current_line = ""
 
         for char in page:
@@ -69,8 +70,10 @@ def main() -> None:
             # print(char["text"], end="")
 
             x0 = char["x0"]
+            top = char["top"]
 
-            if last_x and x0 < last_x:
+            # if last_x and x0 < last_x:
+            if last_top and top > last_top + 2:
                 # print("currentline =", current_line)
                 current_line = char["text"]
 
@@ -83,7 +86,8 @@ def main() -> None:
                     store_candidate(x0, candidate_score, column_candidates)
 
             last_x = x0
-    
+            last_top = top
+
     column_candidates.sort(key=lambda candidate: candidate["score"])
     # pprint(column_candidates)
 
@@ -95,7 +99,8 @@ def main() -> None:
     for page in pages:
         # print(page)
 
-        last_x = None
+        # last_x = None
+        last_top = None
         current_line = ""
         current_row = [""] * len(column_x)
 
@@ -104,16 +109,19 @@ def main() -> None:
             # print(char["text"], end="")
 
             x0 = char["x0"]
+            top = char["top"]
 
-            if last_x and x0 < last_x:
+            # if last_x and x0 < last_x:
+            if last_top and top > last_top + 2:
                 # print("currentline =", current_line)
                 current_line = char["text"]
-                # print(current_row)
+                print(current_row)
                 current_row = [""] * len(column_x)
             else:
                 current_line += char["text"]
 
-            last_x = x0
+            # last_x = x0
+            last_top = top
 
             i = get_column_index(x0, column_x)
             current_row[i] += char["text"]
