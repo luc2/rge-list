@@ -8,6 +8,3 @@ wheels/
 
 # Virtual environments
 .venv
-
-/entreprises_rge.csv
-/entreprises_rge.json

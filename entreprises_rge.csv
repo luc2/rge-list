@@ -1,0 +1,141 @@
+page,name,address,commune,telephone,sector,email,is_groupement
+1,ACTIONRENOV,1185 CHEMIN DU MASSONNE,31600 SEYSSES,09 52 06 43 08,Combles perdus,actionrenov31@outlook.fr,False
+1,AMBITHERM,27 Chemin des Moles,31120 PINSAGUEL,05 61 73 58 44,"Combles perdus, chaudière gaz, PAC, ECS thermodynamique, photovoltaïque, VMC",contact@ambitherm.fr,False
+1,GD CONSEILS,19 BIS RUE GASTON EVRARD,31120 PORTET SUR GARONNE,06 86 78 72 28,Isolation des toitures terrasses ou des toitures par l'extérieur,gdc.etancheite@gmail.com,False
+1,IPGO,72 CHEMIN DE LAGRANGE,31120 ROQUES SUR GARONNE,06 95 71 65 19,"Isolation plancher bas, ITI murs, rampants, combles perdus",sarl.ipgo@gmail.com,False
+1,G.MI HABITAT,594 ROUTE DE L'ISLE JOURDAIN,31470 EMPEAUX,07 77 97 52 04,"Isolation plancher bas, ITI murs, rampants, combles perdus",sasgmihabitat@gmail.com,False
+1,EURL BAPTISTA,1670 RUE DES PYRENEES,31410 ST HILAIRE,06 98 33 00 36,ITE murs,eurlbaptista.facades@gmail.com,False
+1,FELICIANO JUNIOR,4 PLACE JEAN CHAUBET,31600 SEYSSES,05 31 47 56 84,ITE murs,juniorenduit@gmail.com,False
+1,BMF FACADES,314 CHEMIN DU FOURTANE,31600 SEYSSES,06 45 44 44 08,ITE murs,bmf.facades@outlook.com,False
+1,SARL MENDES DA SILVA,2 BIS AVENUE VINCENT AURIOL,31120 ROQUETTES,05 61 40 80 95,ITE murs,seraph.dasilva@wanadoo.fr,False
+1,M.C. PROJEC,34 IMPASSE SAINT JACQUES,31120 PORTET SUR GARONNE,05 34 57 90 48,ITE murs,secretariat@mcprojec.com,False
+1,BETIRAC ISOLATION,11 BIS RUE DE LA BRUYERE,31120 PINSAGUEL,05 62 23 51 51,ITE murs,isabelle@smf-betirac-facades.fr,False
+1,BPI SUD OUEST,12 CHEMIN DE TUCOL,31600 MURET,06 56 66 16 91,ITE murs,contact@bpiso.fr,False
+1,LM BATIMENT MAAROUF,1 IMPASSE HAMEAU DE GRANGE,31410 LE FAUGA,06 49 07 13 42,ITE murs,batiment.lm@gmail.com,False
+1,G2S ISO,100 ROUTE DE MURET,31600 EAUNES,06 01 16 38 14,"ITE murs, combles perdus, VMC, menuiseries",societe.g2s31@gmail.com,False
+1,ETS,9 RUE MARCEL LANGER ZI LA PICHE,31600 SEYSSES,05 62 57 02 79,"ITE toiture, toiture terrasse",accueil@sarlets.fr,False
+1,EXPERTISE ETANCHEITE,20 CHE DES FLAMBANTS,31600 EAUNES,06 12 53 91 92,"ITE toiture, toiture terrasse",jvidili@expertise-etancheite.fr,False
+1,GREEN CONFORT,2004 Route de Tarbes,31470 FONSORBES,05 34 49 36 50,"ITI murs rampants, plancher bas, combles perdus, VMC, PAC, ECS, thermodynamique, Photovoltaïque",greenconfort31@gmail.com,False
+1,KIISOL,37 BIS CHEMIN DES PALANQUES SUD,31120 PORTET SUR GARONNE,06 10 93 70 09,"ITI murs, rampants, combles perdus, ITE toiture, plancher bas, VMC, fenêtres de toit",contact@kiisol.fr,False
+1,BONNEFILS SARL,10 RUE DU NORD,31410 LAVERNOSE LACASSE,06 61 21 96 29,"ITI murs, rampants",bonnefils.christophe@yahoo.fr,False
+1,LOLOM,120 CHEMIN DE FLURIAL,31600 EAUNES,05 61 76 96 76,"ITI murs, rampants",cedric.artisan@orange.fr,False
+1,C.M.P.H (CENTRE MIDI-PYRENEES DE L'HABITAT),"22, RUE DE LA BRUYÈRE",31120 PINSAGUEL,05 61 20 19 67,"ITI murs, rampants, combles perdus",cmph31@orange.fr,False
+1,SOTO JOSE,2 BIS CHEMIN LE LOUP,31410 LE FAUGA,05 62 23 27 76,"ITI murs, rampants, combles perdus",polidosoto.jose-joaquim@neuf.fr,False
+1,TDM SERVICES,18 RUE DU ZEPHIR,31470 FONSORBES,06 60 39 32 39,"ITI murs, rampants, combles perdus",contact@tdmservice.fr,False
+1,PLAPEIM,11 BIS RUE DU BEARN,31600 EAUNES,06 03 88 29 16,"ITI murs, rampants, combles perdus",sasplapeim31@gmail.com,False
+1,ZINGUEUR DU MAT,24 AVENUE DU PARC,31120 ROQUES SUR GARONNE,06 29 10 01 03,"ITI murs, rampants, combles perdus, ITE toiture",contact@zingueurdumat.fr,False
+1,SARL FRESQUET CHARPENTE,82 ROUTE DE VILLENEUVE,31120 ROQUES SUR GARONNE,05 61 31 16 31,"ITI murs, rampants, combles perdus, ITE toiture, fenêtres de toit",contact@fresquetcharpente.fr,False
+1,BATI RENOVATION,7 IMPASSE PUJEAU RABE,31410 LAVERNOSE LACASSE,05 61 08 89 37,"ITI murs, rampants, combles perdus, menuiseries, PAC, ECS, thermodynamique",contact@br31.fr,False
+1,RUBEN RODRIGUES,22 RUE DES ORCHIDEES,31600 ST CLAR DE RIVIERE,07 50 90 76 93,"ITI murs, rampants, combles perdus, plancher bas",ruben.rodrigues.plaquiste@gmail.com,False
+1,LA BOUTIQUE DE LA NATURE,10 RUE DE LA BRUYERE,31120 PINSAGUEL,05 61 08 83 45,"ITI murs, rampants, combles perdus, plancher bas",toulouse@eco-logis.com,False
+1,ALMEIDA CYPRIANO ANTONIO,6 RUE JULES VERNE,31270 FROUZINS,06 10 27 55 19,"ITI murs, rampants, combles perdus, plancher bas",alcypriano@hotmail.com,False
+1,SARL CARDOSO ENDUITS EXTERIEURS,8 RUE JEAN MONNET,31470 FONSORBES,06 11 28 63 92,"ITI murs, rampants, combles perdus, plancher bas",cardoso.enduits@orange.fr,False
+1,SMCB,28 AVENUE MARCONI ZAC DU BOUTET,31470 SAINT LYS,05 61 91 82 03,"ITI murs, rampants, ITE toiture ou toiture terrasse, fenêtres de toit",aetl31@laposte.net,False
+1,BOIS DE COEUR CONCEPT,710 RTE DE MURET,31600 EAUNES,06 22 26 05 53,"ITI murs, rampants, ITE toiture ou toiture terrasse, fenêtres de toit",boisdecoeurconcept@gmail.com,False
+1,EHBI,41 CHEMIN DES PALANQUES SUD,31120 PORTET SUR GARONNE,05 62 87 44 14,"ITI murs, rampants, PAC, ECS thermodynamique",contact@ehbi.fr,False
+1,TOURNEE DU COQ,9 IMPASSE DES POUSSINS,31470 FONSORBES,05 34 51 38 31,"ITI murs, rampants, plancher bas, ITE murs, isolation combles perdus, toiture terrasse, ITE toiture, fenêtres de toit, photovoltaïque",tourneeducoq31@gmail.com,False
+1,ABSO,14 RUE DE L'AUSSAU,31600 LABASTIDETTE,05 61 72 39 63,"ITI murs, rampants, plancher bas, VMC, PAC, ECS thermodynamique",c.monnac.abso@gmail.com,False
+1,VSA PART,1 PLACE J CHAUBET,31600 SEYSSES,05 34 47 10 10,Menuiseries,vsapart.31@orange.fr,False
+1,MMH,1 PLACE LUCIEN CASSAGNE,31600 SEYSSES,05 34 60 13 38,Menuiseries,accueil.bdm31@gmail.com,False
+1,GARNES & FILS,5 AVENUE PIERRE SEMARD,31600 SEYSSES,05 61 08 45 41,Menuiseries,garnes.sarl@orange.fr,False
+1,RPM,21 RUE HELENE BOUCHER ZA SEGLA II,31600 SEYSSES,05 62 20 18 52,Menuiseries,rpm6@wanadoo.fr,False
+1,ETABLISSEMENTS GRILLOT MENUISERIE,3 IMPASSE DU MESCURT,31470 SAINT LYS,06 62 04 26 30,Menuiseries,etsgrillot@orange.fr,False
+2,ASAP RENOV',3 AVENUE DU CHATEAU DE MEYNIAL,31120 ROQUES SUR GARONNE,06 62 27 85 60,Menuiseries,asaprenov.faustino@gmail.com,False
+2,ASSOCIES MENUISERIE POSE,2 BIS CHEMIN DE CANDIE,31120 PORTET SUR GARONNE,05 62 86 69 92,Menuiseries,contact@ampose.fr,False
+2,TOURBIER CONCEPT MENUISERIES,49 ALL GUILLAUME APOLLINAIRE,31120 PORTET SUR GARONNE,06 87 75 27 32,Menuiseries,sarl.tcmenuiseries@gmail.com,False
+2,ALU ESPACE CREATION AEC,2 RUE DU CAGIRE,31120 PINSAGUEL,05 61 76 99 99,Menuiseries,contact@aluespacecreation.fr,False
+2,CDL 31,13 RUE JEAN FRANCOIS ROMIEU,31600 MURET,05 61 49 95 34,Menuiseries,larameech@carresdelumiere.com,False
+2,GARNIER ERIC,4 RUE DOMINIQUE BAYARD,31600 MURET,05 62 23 83 62,Menuiseries,ent.garnier@gmail.com,False
+2,OUVERTURE CIEL BLEU,76 RUE DE LA PIQUE D'ESTATS,31600 MURET,05 61 16 08 51,Menuiseries,ouverturecielbleu2010@gmail.com,False
+2,PRO ADVANCE,9 RUE JEAN FRANCOIS ROMIEU,31600 MURET,06 48 57 21 53,Menuiseries,christophe.bernede@orange.fr,False
+2,DVM,190 IMPASSE D'ENROUX,31860 LABARTHE SUR LEZE,05 61 56 90 40,Menuiseries,sarldvm@hotmail.fr,False
+2,MI-K MENUISERIE SOCIETE LES MENUISIERS ASSOCIES,64 CHE DES CONDOUMINES 5 AVENUE PIERRE DURAND ESPACE,31860 LABARTHE SUR LEZE 31470 FONSORBES,07 61 94 20 55,Menuiseries,mikmenuiserie31@gmail.com alexia.tajan@sma31.fr,False
+2,AREXIS FRERES,ECONOMIQUE MOUNDRAN 16 RUE JEAN MONNET ZAC DE MOUNDRAN,31470 FONSORBES,05 61 91 03 95,Menuiseries,arexis.freres@orange.fr,False
+2,ISO FERMETURES,1685 RTE DE TARBES,31470 FONSORBES,05 61 08 94 03,Menuiseries,secretariat@isofermetures31.fr,False
+2,OEUVRE DES TEMPS,5 IMPASSE DES POUSSINS,31470 FONSORBES,06 62 48 11 21,Menuiseries,oeuvredestemps@gmail.com,False
+2,ALLIAGE POSE FERMETURE DENIS MULTISERVICES,1 RUE FREDERIC CHOPIN APPT 406 VILLA SERENA 1 ALLEE HENRI,31600 EAUNES 31600 EAUNES,05 61 08 93 38,Menuiseries,alliagepose-fermeture@orange.fr denis.lledo@orange.fr,False
+2,MPEP,GUILLAUMET ZAC DU MANDARIN 11 IMPASSE DE BIGORRE,31600 EAUNES,05 34 48 65 56,Menuiseries,contact@mpep31.com,False
+2,ECO DUCK MENUISERIES,1115 ROUTE DE TARBES,31470 FONSORBES,05 62 20 62 85,"Menuiseries, ITI murs, rampants combles perdus",info@ecoduck.fr,False
+2,ANVOLIA 31,9 RUE JF ROMIEU ZI DE JOFFRERY,31600 MURET,,PAC,anvolia31@anvolia.com,False
+2,ETS PERUZZO RAYMOND,26 Route d'Ax,31120 PORTET SUR GARONNE,05 61 72 26 45,"PAC, chaudière gaz, chauffage/ECS solaire, ECS thermodynamique, VMC, Photovoltaïque",contact@peruzzo.fr,False
+2,MGECO SAS,12 AVENUE VICTOR HUGO,31600 SEYSSES,06 22 20 43 94,"PAC, chaudière gaz, ECS thermodynamique",mgeco@mgeco.fr,False
+2,ENTREPRISE UBERTI,16 Rue de L'Ousse,31120 PINSAGUEL,05 61 72 09 47,"PAC, chaudière gaz, ECS thermodynamique",plomberieuberti@orange.fr,False
+2,RIZZO CHAUFFAGE,6 RUE PIERRE FONS,31600 MURET,05 61 91 44 75,"PAC, chaudière gaz, ECS thermodynamique",contact@rizzo-chauffage.fr,False
+2,BR SERVICES,7 Avenue Pierre Durand,31470 FONSORBES,05 62 48 15 15,"PAC, chaudière gaz, ECS thermodynamique",direction@br-services.net,False
+2,CARTAGENA OLIVIER,3 Bis Place Jean Chaubet,31600 SEYSSES,05 61 56 95 65,"PAC, chauffage/ECS solaire, ECS thermodynamique, chaudière gaz",oliviercartagenasasu@gmail.com,False
+2,ATHERMIC,5 rue Marcel Langer,31600 SEYSSES,05 61 51 13 89,"PAC, chauffage/ECS solaire, ECS thermodynamique, chaudière gaz, radiateur électrique, photovoltaïque",info@athermicsarl.com,False
+2,ENERGIE B - CB PERFORMANCES,9 rue Jean François Romieu,31600 MURET,05 32 78 39 00,"PAC, Chauffage/ECS solaire, ECS thermodynamique, VMC, photovoltaïque",contact@energie-b.fr,False
+2,BTS ENERGY,45 chemin du Mounicard,31600 SEYSSES,05 62 20 54 56,"PAC, ECS thermodynamique",btsenergy.31@gmail.com,False
+2,A.M.P.C,786 Chemin De La Saudrune,31600 SEYSSES,06 86 58 57 85,"PAC, ECS thermodynamique",charly.1478@orange.fr,False
+2,AELM CLIM,53 chemin de Roquettes,31600 SAUBENS,06 52 56 90 45,"PAC, ECS thermodynamique",contactclim31@gmail.com,False
+2,FAURE CONCEPTS REALISATIONS,128 Chemin des Nauzes,31470 SAINT LYS,06 74 82 68 89,"PAC, ECS thermodynamique",sarl.fcr@orange.fr,False
+2,A.C.E.S,2 route de Muret,31120 PORTET SUR GARONNE,05 62 20 00 60,"PAC, ECS thermodynamique",eurl.aces@orange.fr,False
+2,ECO SOLUTION HABITAT,2B chemin de Candie,31120 PORTET SUR GARONNE,06 11 92 45 41,"PAC, ECS thermodynamique",eco.solution.habitat@outlook.fr,False
+2,MUNIERA PLOMBERIE,2 RUE DOMINIQUE INGRES,31120 PORTET SUR GARONNE,06 69 93 31 58,"PAC, ECS thermodynamique",munieraplomberie@gmail.com,False
+2,COTE CHAUFFAGE ET CLIM,15 RUE DES GENETS,31120 PINSAGUEL,06 74 86 37 66,"PAC, ECS thermodynamique",cote.chauffage.clim@outlook.fr,False
+2,OCCI ENERGIES,15 AVENUE FRANCOIS LACHAMBRE,31120 PINSAGUEL,06 03 58 08 51,"PAC, ECS thermodynamique",occi.energies@gmail.com,False
+2,PACT LDO,46 RUE LATECOERE,31600 MURET,06 45 17 71 79,"PAC, ECS thermodynamique",pact.ldolirola@gmail.com,False
+2,TPCC,60 AVENUE JACQUES DOUZANS APT 8,31600 MURET,07 49 20 80 88,"PAC, ECS thermodynamique",tpcc31@outlook.fr,False
+2,MC ENERGIE,17 Impasse Roucade,31410 LE FAUGA,06 44 25 94 68,"PAC, ECS thermodynamique",mc.energie@outlook.fr,False
+2,ICY DESIGN,14 Quartier St Hubert,31410 LAVERNOSE LACASSE,06 58 11 87 85,"PAC, ECS thermodynamique",icy.design31@gmail.com,False
+2,AT Brothers,4 RUE D OCCITANIE,31600 LABASTIDETTE,05 34 56 83 84,"PAC, ECS thermodynamique",atschit.brothers@gmail.com,False
+2,HFC SERVICES,282 route du Plantaurel,31860 LABARTHE SUR LEZE,05 61 76 40 61,"PAC, ECS thermodynamique",admin@hfcservices.fr,False
+2,CLIMA6 SERVICES,2 RUE DU MIDI,31270 FROUZINS,05 61 92 33 52,"PAC, ECS thermodynamique",contact@clima6.fr,False
+2,ICSSO PLOMBERIE,36 Rue de la Concorde,31270 FROUZINS,07 83 07 30 66,"PAC, ECS thermodynamique",icssoplomberie@gmail.com,False
+2,SUN ICE,4 rue Pierre Beregovoy,31470 FONSORBES,05 61 07 37 68,"PAC, ECS thermodynamique",sun.iceclim@wanadoo.fr,False
+3,JD TECHNISUD 31,160 chemin du Jouliou,31600 EAUNES,06 74 91 61 02,"PAC, ECS thermodynamique",jd.technisud31@outlook.com,False
+3,ENTREPRIS EMERY,8 RUE DE LA POSTE,31120 PORTET SUR GARONNE,05 61 76 44 46,"PAC, ECS thermodynamique, Chaudière gaz",sarl.emery@gmail.com,False
+3,PROXISERVE,5 ALLEE DES SPORTS,31120 PORTET SUR GARONNE,05 62 87 68 41,"PAC, ECS thermodynamique, Chaudière gaz",jbarbe@proxiserve.fr,False
+3,ANGLADE YANNICK (AYPC),5 RUE DES PYRENEES ZAC DU MANDARIN,31600 EAUNES,06 15 89 05 71,"PAC, ECS thermodynamique, chaudière gaz",aypc@orange.fr,False
+3,SOLUTION MAG SERVICE,9 Rue Jean Francois Romieu Batiment C3,31600 MURET,05 61 44 58 74,"PAC, ECS thermodynamique, chaudière gaz, ITI murs, rampants, radiateur, électrique",contact@solutionmagservice.fr,False
+3,SARL ENTREPRISE BELINGUIER ELECTRICITE,401 CHEMIN DES AGRIES LOT NE6,31860 LABARTHE SUR LEZE,06 82 55 06 41,"PAC, ECS thermodynamique, Photovoltaique",ebe.nathalie@orange.fr,False
+3,EURL BARBEY Nicolas,21 Rue Pierre de Fermat,31600 MURET,05 32 00 20 51,"PAC, ECS thermodynamique, photovoltaïque",nicolasbarbey@sfr.fr,False
+3,SOS FROID CLIM,80 avenue d'Ox,31600 MURET,05 34 48 69 04,"PAC, ECS thermodynamique, Photovoltaïque",manuel-sosfroidclim@orange.fr,False
+3,J&F SOLUTIONS HABITAT,8 PASSAGE DE LA GIMONE,31270 FROUZINS,07 85 69 09 87,"PAC, ECS thermodynamique, photovoltaïque",jf.solutionshabitat@outlook.fr,False
+3,R -GROUPE GENIE CLIMATIQUE,5 Impasse Camus,31120 ROQUETTES,05 82 95 65 63,"PAC, ECS thermodynamique, Photovoltaïques",bernard.rosa@r2gc.fr,False
+3,ALLIANCE CONFORT CLIMATIQUE,39T rue de Beaucru,31120 ROQUETTES,06 33 77 65 92,"PAC, ECS thermodynamique, Photovoltaïques",f.daulan@acclimatique.fr,False
+3,BL CHAUFFAGE CLIMATISATION,1 Chemin de la Louge,31410 LAVERNOSE LACASSE,06 24 85 63 17,"PAC, ECS thermodynamique, Poêle ou insert bois",contact@bl2c.fr,False
+3,MSI - LERAN DAVID,79 CHEMIN DU MOUREOU,31470 SAINT THOMAS,06 14 88 97 16,"PAC, ECS thermodynamique, radiateur électrique, VMC",msileran@gmail.com,False
+3,EURL CHAUFFAGE ET CLIMATISATION DU,8E ROUTE DE MURET,31600 SAUBENS,09 70 66 70 84,"PAC, ECS thermodynamique, VMC",contact@2cm31.fr,False
+3,SPOBAM,11 RUE DE LA BRUYERE,31120 PINSAGUEL,05 61 98 30 34,"PAC, ECS thermodynamique, VMC, chaudière gaz, radiateur électrique",a.monetti@acc-groupespobam.fr,False
+3,ENR RENOV,33 ROUTE DE FRANCAZAL,31120 PORTET SUR GARONNE,09 51 46 84 86,"PAC, ECS thermodynamique, VMC, Photovoltaïque",enr.renov@gmail.com,False
+3,CLIM ET CHAUFF,23 rue de Neouvielle,31120 PORTET SUR GARONNE,05 61 76 48 44,"PAC, ECS thermodynamique, VMC, Photovoltaïque",contact@climetchauff.fr,False
+3,VERTENER,1 Boulevard Lamasquère,31600 MURET,05 40 80 43 00,"PAC, ECS thermodynamique,Chauffage/ECS solaire, VMC, Photovoltaïque",jamesdeal@vertener.fr,False
+3,CYNERGIE,4475 CHEMIN DE COULOUME,31600 SEYSSES,07 85 54 14 65,Photovoltaïque,cynergie31@gmail.com,False
+3,BECCHIO ELECTRICITE,11 rue des dolomites,31600 SAUBENS,06 74 61 27 13,Photovoltaïque,tdy31@live.fr,False
+3,AETL,40 Rue des Alouettes,31470 SAINT LYS,06 71 78 69 78,Photovoltaïque,aetl31@laposte.net,False
+3,MECOWORKS,18 AVENUE MARCONI ZAC DU BOUTET,31470 SAINT LYS,05 61 91 72 14,Photovoltaïque,info@mecoworks.com,False
+3,TECSO,8 CHEMIN DES MESANGES,31120 PORTET SUR GARONNE,05 62 20 53 54,Photovoltaïque,administratif@tecso-sas.fr,False
+3,ENTREPRISE BARDE SUD-OUEST,230 AVENUE DES PYRENEES,31600 MURET,05 34 60 64 89,Photovoltaïque,sabine.jeandon@omexom.com,False
+3,SAS D'PE,25 RUE DU LANGUEDOC,31600 MURET,05 34 53 22 29,Photovoltaïque,dpe@sasdpe.fr,False
+3,SLOWATT,17 rue Pierre de Fermat,31600 MURET,05 62 23 39 40,Photovoltaïque,contact@luchinetfils.fr,False
+3,NEOTECH,1595 AVENUE DU LAURAGAIS,31860 LABARTHE SUR LEZE,06 13 48 81 30,Photovoltaïque,cyrilmogno@hotmail.fr,False
+3,SASU BRUSELEC,1680 ROUTE DE TARBES,31470 FONSORBES,07 56 91 90 91,Photovoltaïque,bruselec@gmail.com,False
+3,ECOCONNECT,2 CHEMIN DE LA SAUDRUNE,31120 ROQUES SUR GARONNE,07 88 98 35 33,Photovoltaïques,a.lamsaoui@eco-connect.fr,False
+3,ALIBERT ET FILS,ROUTE DE LAVERNOSE LE PRIEURE,31410 LONGAGES,05 61 87 47 16,"Poêle et insert bois, VMC, chaudière bois, PAC, chaudière gaz, ECS, thermodynamique, radiateur électrique, Photovoltaïque",alibert@alibert-sa.com,False
+3,POELES ET PELLETS OCCITANS,6 Avenue des Muriers Lieu dit la Come,31120 ROQUES SUR GARONNE,05 34 46 20 58,Poêle ou insert bois,contact@p-p-o.fr,False
+3,DISTRICHAZ,1 Avenue de l'Enclos Pavillon n°4,31120 PORTET SUR GARONNE,05 32 59 08 67,Poêle ou insert bois,magasin.toulouse@chazelles.com,False
+3,DOMALIS 31,4 chemin de Candie,31120 PORTET SUR GARONNE,05 61 41 60 59,Poêle ou insert bois,c.cosme@domalis.fr,False
+3,COULEUR FLAMME,14 bis avenue Bernard IV,31600 MURET,06 64 35 45 44,Poêle ou insert bois,frederic.seguela3@orange.fr,False
+3,LE CONFORT DU FEU,21 Rue Pierre De Fermat Lot 14,31600 MURET,05 61 44 17 84,Poêle ou insert bois,alonsobatiment@yahoo.fr,False
+3,FORN,9 Rue Jean François Romieu,31600 MURET,05 61 44 47 65,Poêle ou insert bois,forn@forn.fr,False
+3,SARL GAETAN GALIANA,8 Rue Cérisols,31410 LE FAUGA,05 61 87 33 21,Poêle ou insert bois,gaetan.galiana@gmail.com,False
+3,MAISON PLUS,8 rue Béarn ZAC du Mandarin,31600 EAUNES,05 61 90 78 74,Poêle ou insert bois,maisonplus31.cb@gmail.com,False
+3,VAUTIER ET FILS,9 Rue Jean François Romieu,31600 MURET,05 62 86 96 94,"Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, PAC, ECS, thermodynamique, chaudière gaz, VMC, Photovoltaïque",contact@chauffage-vautier.fr,False
+3,THERMONEO - SARL 2AVF ENERGIES,ZA DESCAILLAUX,31430 ST ELIX LE CHÂTEAU,05 61 97 64 23,"Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, PAC, ECS, thermodynamique, chaudière gaz, VMC, Photovoltaïque",contact@thermoneo.fr,False
+3,ALTER ENERGIES,8 CHEMIN DE CARNAVAL,31220 MARTRES TOLOSANE,05 61 98 56 91,"Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, VMC, Photovoltaïque",contact@alterenergies.fr,False
+3,SOLENEO ENERGIES NOUVELLES,72 CHEMIN DE L'INDUSTRIE,31390 CARBONNE,05 61 97 62 12,"Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, VMC, Photovoltaïque",mathieu@soleneo.fr,False
+4,HTS,135 chemin de Lacombe,31600 MURET,06 03 69 43 68,"Poêle ou insert bois, chaudière bois, PAC, Chauffage/ECS solaire, ECS, thermodynamique",contact@hts-enr.fr,False
+4,ECO-LOGIS SYSTEMS,40 route de Seysses,31470 FONSORBES,06 24 56 79 17,"Poêle ou insert bois, chaudière bois, PAC, ECS thermodynamique",thirioux@ecologis-systems.com,False
+4,GENERAL PROHABITAT,21 AVENUE DE LA CEPETTE,31860 PINS-JUSTARET,06 21 64 82 45,Projet complet de rénovation,general.prohabitat@gmail.com,False
+4,CONSTRUCTIONS MURETAINES,2 RUE AYME KUNC,31600 MURET,05 62 23 25 65,Projet complet de rénovation,constructions.muretaines@gmail.com,False
+4,ICCSER,3 CHEMIN DE LABARTHE,31600 LABASTIDETTE,05 62 20 39 85,"VMC, poêle ou insert bois, chaudière bois, PAC, chaudière gaz, chauffage/ECS solaire, ECS thermodynamique, Photovoltaïque",contact@iccser.fr,False
+4,COMMINGES ELECTRICITE,44 RUE MARCLAN,31600 MURET,05 61 08 16 18,"VMC, radiateur électrique",secretariat@commingeselectricite.com,False
+4,Les Professionnels Occitans,ZAC du Mandarin,31600 EAUNES,05 32 98 03 04,Multi travaux (voir www.professionnels-occitans.com),contact@pro-occitans.com,True
+4,SARL GAETAN GALIANA,8 Rue Cérisols,31410 LE FAUGA,05 61 87 33 21,Poêle ou insert bois,gaetan.galiana@gmail.com,True
+4,KIISOL,37 bis chemin des Palanques Sud,31120 PORTET SUR GARONNE,06 10 93 70 09,"ITI murs, rampants, combles perdus, ITE toiture, plancher bas, VMC, fenêtres de toit",contact@kiisol.fr,True
+4,MPEP,ZAC du Mandarin,31600 EAUNES,05 34 48 65 56,Menuiseries,contact@mpep31.com,True
+4,TH BEGUE,1560 route de corronsac,31810 VENERQUE,06 03 52 83 32,"PAC, ECS Thermodynamique, Chaudière bois, Poêle ou insert bois",th.begue@free.fr,True
+4,TRADIFACE,343 Chemin d’Engoudes,31450 BAZIEGE,09 83 77 27 97,ITE murs,tradi-face@orange.fr,True
+4,ACTION CLIM,17 voie Eris ZA Pompignal,31190 MIREMONT,05 61 50 55 77,"PAC, ECS Thermodynamique",jc.gabriel@action-clim.com,True
+4,SUD SOLAIRE EXPERT,88 avenue de Bouconne,31530 LEVIGNAC,05 61 15 48 49,Photovoltaïque,contact@sud-solaire-expert.fr,True

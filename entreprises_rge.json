@@ -1,0 +1,1402 @@
+[
+    {
+        "page": 1,
+        "name": "ACTIONRENOV",
+        "address": "1185 CHEMIN DU MASSONNE",
+        "commune": "31600 SEYSSES",
+        "telephone": "09 52 06 43 08",
+        "sector": "Combles perdus",
+        "email": "actionrenov31@outlook.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "AMBITHERM",
+        "address": "27 Chemin des Moles",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 61 73 58 44",
+        "sector": "Combles perdus, chaudière gaz, PAC, ECS thermodynamique, photovoltaïque, VMC",
+        "email": "contact@ambitherm.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "GD CONSEILS",
+        "address": "19 BIS RUE GASTON EVRARD",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "06 86 78 72 28",
+        "sector": "Isolation des toitures terrasses ou des toitures par l'extérieur",
+        "email": "gdc.etancheite@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "IPGO",
+        "address": "72 CHEMIN DE LAGRANGE",
+        "commune": "31120 ROQUES SUR GARONNE",
+        "telephone": "06 95 71 65 19",
+        "sector": "Isolation plancher bas, ITI murs, rampants, combles perdus",
+        "email": "sarl.ipgo@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "G.MI HABITAT",
+        "address": "594 ROUTE DE L'ISLE JOURDAIN",
+        "commune": "31470 EMPEAUX",
+        "telephone": "07 77 97 52 04",
+        "sector": "Isolation plancher bas, ITI murs, rampants, combles perdus",
+        "email": "sasgmihabitat@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "EURL BAPTISTA",
+        "address": "1670 RUE DES PYRENEES",
+        "commune": "31410 ST HILAIRE",
+        "telephone": "06 98 33 00 36",
+        "sector": "ITE murs",
+        "email": "eurlbaptista.facades@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "FELICIANO JUNIOR",
+        "address": "4 PLACE JEAN CHAUBET",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 31 47 56 84",
+        "sector": "ITE murs",
+        "email": "juniorenduit@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "BMF FACADES",
+        "address": "314 CHEMIN DU FOURTANE",
+        "commune": "31600 SEYSSES",
+        "telephone": "06 45 44 44 08",
+        "sector": "ITE murs",
+        "email": "bmf.facades@outlook.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "SARL MENDES DA SILVA",
+        "address": "2 BIS AVENUE VINCENT AURIOL",
+        "commune": "31120 ROQUETTES",
+        "telephone": "05 61 40 80 95",
+        "sector": "ITE murs",
+        "email": "seraph.dasilva@wanadoo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "M.C. PROJEC",
+        "address": "34 IMPASSE SAINT JACQUES",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 34 57 90 48",
+        "sector": "ITE murs",
+        "email": "secretariat@mcprojec.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "BETIRAC ISOLATION",
+        "address": "11 BIS RUE DE LA BRUYERE",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 62 23 51 51",
+        "sector": "ITE murs",
+        "email": "isabelle@smf-betirac-facades.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "BPI SUD OUEST",
+        "address": "12 CHEMIN DE TUCOL",
+        "commune": "31600 MURET",
+        "telephone": "06 56 66 16 91",
+        "sector": "ITE murs",
+        "email": "contact@bpiso.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "LM BATIMENT MAAROUF",
+        "address": "1 IMPASSE HAMEAU DE GRANGE",
+        "commune": "31410 LE FAUGA",
+        "telephone": "06 49 07 13 42",
+        "sector": "ITE murs",
+        "email": "batiment.lm@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "G2S ISO",
+        "address": "100 ROUTE DE MURET",
+        "commune": "31600 EAUNES",
+        "telephone": "06 01 16 38 14",
+        "sector": "ITE murs, combles perdus, VMC, menuiseries",
+        "email": "societe.g2s31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "ETS",
+        "address": "9 RUE MARCEL LANGER ZI LA PICHE",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 62 57 02 79",
+        "sector": "ITE toiture, toiture terrasse",
+        "email": "accueil@sarlets.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "EXPERTISE ETANCHEITE",
+        "address": "20 CHE DES FLAMBANTS",
+        "commune": "31600 EAUNES",
+        "telephone": "06 12 53 91 92",
+        "sector": "ITE toiture, toiture terrasse",
+        "email": "jvidili@expertise-etancheite.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "GREEN CONFORT",
+        "address": "2004 Route de Tarbes",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 34 49 36 50",
+        "sector": "ITI murs rampants, plancher bas, combles perdus, VMC, PAC, ECS, thermodynamique, Photovoltaïque",
+        "email": "greenconfort31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "KIISOL",
+        "address": "37 BIS CHEMIN DES PALANQUES SUD",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "06 10 93 70 09",
+        "sector": "ITI murs, rampants, combles perdus, ITE toiture, plancher bas, VMC, fenêtres de toit",
+        "email": "contact@kiisol.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "BONNEFILS SARL",
+        "address": "10 RUE DU NORD",
+        "commune": "31410 LAVERNOSE LACASSE",
+        "telephone": "06 61 21 96 29",
+        "sector": "ITI murs, rampants",
+        "email": "bonnefils.christophe@yahoo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "LOLOM",
+        "address": "120 CHEMIN DE FLURIAL",
+        "commune": "31600 EAUNES",
+        "telephone": "05 61 76 96 76",
+        "sector": "ITI murs, rampants",
+        "email": "cedric.artisan@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "C.M.P.H (CENTRE MIDI-PYRENEES DE L'HABITAT)",
+        "address": "22, RUE DE LA BRUYÈRE",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 61 20 19 67",
+        "sector": "ITI murs, rampants, combles perdus",
+        "email": "cmph31@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "SOTO JOSE",
+        "address": "2 BIS CHEMIN LE LOUP",
+        "commune": "31410 LE FAUGA",
+        "telephone": "05 62 23 27 76",
+        "sector": "ITI murs, rampants, combles perdus",
+        "email": "polidosoto.jose-joaquim@neuf.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "TDM SERVICES",
+        "address": "18 RUE DU ZEPHIR",
+        "commune": "31470 FONSORBES",
+        "telephone": "06 60 39 32 39",
+        "sector": "ITI murs, rampants, combles perdus",
+        "email": "contact@tdmservice.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "PLAPEIM",
+        "address": "11 BIS RUE DU BEARN",
+        "commune": "31600 EAUNES",
+        "telephone": "06 03 88 29 16",
+        "sector": "ITI murs, rampants, combles perdus",
+        "email": "sasplapeim31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "ZINGUEUR DU MAT",
+        "address": "24 AVENUE DU PARC",
+        "commune": "31120 ROQUES SUR GARONNE",
+        "telephone": "06 29 10 01 03",
+        "sector": "ITI murs, rampants, combles perdus, ITE toiture",
+        "email": "contact@zingueurdumat.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "SARL FRESQUET CHARPENTE",
+        "address": "82 ROUTE DE VILLENEUVE",
+        "commune": "31120 ROQUES SUR GARONNE",
+        "telephone": "05 61 31 16 31",
+        "sector": "ITI murs, rampants, combles perdus, ITE toiture, fenêtres de toit",
+        "email": "contact@fresquetcharpente.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "BATI RENOVATION",
+        "address": "7 IMPASSE PUJEAU RABE",
+        "commune": "31410 LAVERNOSE LACASSE",
+        "telephone": "05 61 08 89 37",
+        "sector": "ITI murs, rampants, combles perdus, menuiseries, PAC, ECS, thermodynamique",
+        "email": "contact@br31.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "RUBEN RODRIGUES",
+        "address": "22 RUE DES ORCHIDEES",
+        "commune": "31600 ST CLAR DE RIVIERE",
+        "telephone": "07 50 90 76 93",
+        "sector": "ITI murs, rampants, combles perdus, plancher bas",
+        "email": "ruben.rodrigues.plaquiste@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "LA BOUTIQUE DE LA NATURE",
+        "address": "10 RUE DE LA BRUYERE",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 61 08 83 45",
+        "sector": "ITI murs, rampants, combles perdus, plancher bas",
+        "email": "toulouse@eco-logis.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "ALMEIDA CYPRIANO ANTONIO",
+        "address": "6 RUE JULES VERNE",
+        "commune": "31270 FROUZINS",
+        "telephone": "06 10 27 55 19",
+        "sector": "ITI murs, rampants, combles perdus, plancher bas",
+        "email": "alcypriano@hotmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "SARL CARDOSO ENDUITS EXTERIEURS",
+        "address": "8 RUE JEAN MONNET",
+        "commune": "31470 FONSORBES",
+        "telephone": "06 11 28 63 92",
+        "sector": "ITI murs, rampants, combles perdus, plancher bas",
+        "email": "cardoso.enduits@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "SMCB",
+        "address": "28 AVENUE MARCONI ZAC DU BOUTET",
+        "commune": "31470 SAINT LYS",
+        "telephone": "05 61 91 82 03",
+        "sector": "ITI murs, rampants, ITE toiture ou toiture terrasse, fenêtres de toit",
+        "email": "aetl31@laposte.net",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "BOIS DE COEUR CONCEPT",
+        "address": "710 RTE DE MURET",
+        "commune": "31600 EAUNES",
+        "telephone": "06 22 26 05 53",
+        "sector": "ITI murs, rampants, ITE toiture ou toiture terrasse, fenêtres de toit",
+        "email": "boisdecoeurconcept@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "EHBI",
+        "address": "41 CHEMIN DES PALANQUES SUD",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 62 87 44 14",
+        "sector": "ITI murs, rampants, PAC, ECS thermodynamique",
+        "email": "contact@ehbi.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "TOURNEE DU COQ",
+        "address": "9 IMPASSE DES POUSSINS",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 34 51 38 31",
+        "sector": "ITI murs, rampants, plancher bas, ITE murs, isolation combles perdus, toiture terrasse, ITE toiture, fenêtres de toit, photovoltaïque",
+        "email": "tourneeducoq31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "ABSO",
+        "address": "14 RUE DE L'AUSSAU",
+        "commune": "31600 LABASTIDETTE",
+        "telephone": "05 61 72 39 63",
+        "sector": "ITI murs, rampants, plancher bas, VMC, PAC, ECS thermodynamique",
+        "email": "c.monnac.abso@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "VSA PART",
+        "address": "1 PLACE J CHAUBET",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 34 47 10 10",
+        "sector": "Menuiseries",
+        "email": "vsapart.31@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "MMH",
+        "address": "1 PLACE LUCIEN CASSAGNE",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 34 60 13 38",
+        "sector": "Menuiseries",
+        "email": "accueil.bdm31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "GARNES & FILS",
+        "address": "5 AVENUE PIERRE SEMARD",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 61 08 45 41",
+        "sector": "Menuiseries",
+        "email": "garnes.sarl@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "RPM",
+        "address": "21 RUE HELENE BOUCHER ZA SEGLA II",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 62 20 18 52",
+        "sector": "Menuiseries",
+        "email": "rpm6@wanadoo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 1,
+        "name": "ETABLISSEMENTS GRILLOT MENUISERIE",
+        "address": "3 IMPASSE DU MESCURT",
+        "commune": "31470 SAINT LYS",
+        "telephone": "06 62 04 26 30",
+        "sector": "Menuiseries",
+        "email": "etsgrillot@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ASAP RENOV'",
+        "address": "3 AVENUE DU CHATEAU DE MEYNIAL",
+        "commune": "31120 ROQUES SUR GARONNE",
+        "telephone": "06 62 27 85 60",
+        "sector": "Menuiseries",
+        "email": "asaprenov.faustino@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ASSOCIES MENUISERIE POSE",
+        "address": "2 BIS CHEMIN DE CANDIE",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 62 86 69 92",
+        "sector": "Menuiseries",
+        "email": "contact@ampose.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "TOURBIER CONCEPT MENUISERIES",
+        "address": "49 ALL GUILLAUME APOLLINAIRE",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "06 87 75 27 32",
+        "sector": "Menuiseries",
+        "email": "sarl.tcmenuiseries@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ALU ESPACE CREATION AEC",
+        "address": "2 RUE DU CAGIRE",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 61 76 99 99",
+        "sector": "Menuiseries",
+        "email": "contact@aluespacecreation.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "CDL 31",
+        "address": "13 RUE JEAN FRANCOIS ROMIEU",
+        "commune": "31600 MURET",
+        "telephone": "05 61 49 95 34",
+        "sector": "Menuiseries",
+        "email": "larameech@carresdelumiere.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "GARNIER ERIC",
+        "address": "4 RUE DOMINIQUE BAYARD",
+        "commune": "31600 MURET",
+        "telephone": "05 62 23 83 62",
+        "sector": "Menuiseries",
+        "email": "ent.garnier@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "OUVERTURE CIEL BLEU",
+        "address": "76 RUE DE LA PIQUE D'ESTATS",
+        "commune": "31600 MURET",
+        "telephone": "05 61 16 08 51",
+        "sector": "Menuiseries",
+        "email": "ouverturecielbleu2010@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "PRO ADVANCE",
+        "address": "9 RUE JEAN FRANCOIS ROMIEU",
+        "commune": "31600 MURET",
+        "telephone": "06 48 57 21 53",
+        "sector": "Menuiseries",
+        "email": "christophe.bernede@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "DVM",
+        "address": "190 IMPASSE D'ENROUX",
+        "commune": "31860 LABARTHE SUR LEZE",
+        "telephone": "05 61 56 90 40",
+        "sector": "Menuiseries",
+        "email": "sarldvm@hotmail.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "MI-K MENUISERIE SOCIETE LES MENUISIERS ASSOCIES",
+        "address": "64 CHE DES CONDOUMINES 5 AVENUE PIERRE DURAND ESPACE",
+        "commune": "31860 LABARTHE SUR LEZE 31470 FONSORBES",
+        "telephone": "07 61 94 20 55",
+        "sector": "Menuiseries",
+        "email": "mikmenuiserie31@gmail.com alexia.tajan@sma31.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "AREXIS FRERES",
+        "address": "ECONOMIQUE MOUNDRAN 16 RUE JEAN MONNET ZAC DE MOUNDRAN",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 61 91 03 95",
+        "sector": "Menuiseries",
+        "email": "arexis.freres@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ISO FERMETURES",
+        "address": "1685 RTE DE TARBES",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 61 08 94 03",
+        "sector": "Menuiseries",
+        "email": "secretariat@isofermetures31.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "OEUVRE DES TEMPS",
+        "address": "5 IMPASSE DES POUSSINS",
+        "commune": "31470 FONSORBES",
+        "telephone": "06 62 48 11 21",
+        "sector": "Menuiseries",
+        "email": "oeuvredestemps@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ALLIAGE POSE FERMETURE DENIS MULTISERVICES",
+        "address": "1 RUE FREDERIC CHOPIN APPT 406 VILLA SERENA 1 ALLEE HENRI",
+        "commune": "31600 EAUNES 31600 EAUNES",
+        "telephone": "05 61 08 93 38",
+        "sector": "Menuiseries",
+        "email": "alliagepose-fermeture@orange.fr denis.lledo@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "MPEP",
+        "address": "GUILLAUMET ZAC DU MANDARIN 11 IMPASSE DE BIGORRE",
+        "commune": "31600 EAUNES",
+        "telephone": "05 34 48 65 56",
+        "sector": "Menuiseries",
+        "email": "contact@mpep31.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ECO DUCK MENUISERIES",
+        "address": "1115 ROUTE DE TARBES",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 62 20 62 85",
+        "sector": "Menuiseries, ITI murs, rampants combles perdus",
+        "email": "info@ecoduck.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ANVOLIA 31",
+        "address": "9 RUE JF ROMIEU ZI DE JOFFRERY",
+        "commune": "31600 MURET",
+        "telephone": "",
+        "sector": "PAC",
+        "email": "anvolia31@anvolia.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ETS PERUZZO RAYMOND",
+        "address": "26 Route d'Ax",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 61 72 26 45",
+        "sector": "PAC, chaudière gaz, chauffage/ECS solaire, ECS thermodynamique, VMC, Photovoltaïque",
+        "email": "contact@peruzzo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "MGECO SAS",
+        "address": "12 AVENUE VICTOR HUGO",
+        "commune": "31600 SEYSSES",
+        "telephone": "06 22 20 43 94",
+        "sector": "PAC, chaudière gaz, ECS thermodynamique",
+        "email": "mgeco@mgeco.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ENTREPRISE UBERTI",
+        "address": "16 Rue de L'Ousse",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 61 72 09 47",
+        "sector": "PAC, chaudière gaz, ECS thermodynamique",
+        "email": "plomberieuberti@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "RIZZO CHAUFFAGE",
+        "address": "6 RUE PIERRE FONS",
+        "commune": "31600 MURET",
+        "telephone": "05 61 91 44 75",
+        "sector": "PAC, chaudière gaz, ECS thermodynamique",
+        "email": "contact@rizzo-chauffage.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "BR SERVICES",
+        "address": "7 Avenue Pierre Durand",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 62 48 15 15",
+        "sector": "PAC, chaudière gaz, ECS thermodynamique",
+        "email": "direction@br-services.net",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "CARTAGENA OLIVIER",
+        "address": "3 Bis Place Jean Chaubet",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 61 56 95 65",
+        "sector": "PAC, chauffage/ECS solaire, ECS thermodynamique, chaudière gaz",
+        "email": "oliviercartagenasasu@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ATHERMIC",
+        "address": "5 rue Marcel Langer",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 61 51 13 89",
+        "sector": "PAC, chauffage/ECS solaire, ECS thermodynamique, chaudière gaz, radiateur électrique, photovoltaïque",
+        "email": "info@athermicsarl.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ENERGIE B - CB PERFORMANCES",
+        "address": "9 rue Jean François Romieu",
+        "commune": "31600 MURET",
+        "telephone": "05 32 78 39 00",
+        "sector": "PAC, Chauffage/ECS solaire, ECS thermodynamique, VMC, photovoltaïque",
+        "email": "contact@energie-b.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "BTS ENERGY",
+        "address": "45 chemin du Mounicard",
+        "commune": "31600 SEYSSES",
+        "telephone": "05 62 20 54 56",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "btsenergy.31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "A.M.P.C",
+        "address": "786 Chemin De La Saudrune",
+        "commune": "31600 SEYSSES",
+        "telephone": "06 86 58 57 85",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "charly.1478@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "AELM CLIM",
+        "address": "53 chemin de Roquettes",
+        "commune": "31600 SAUBENS",
+        "telephone": "06 52 56 90 45",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "contactclim31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "FAURE CONCEPTS REALISATIONS",
+        "address": "128 Chemin des Nauzes",
+        "commune": "31470 SAINT LYS",
+        "telephone": "06 74 82 68 89",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "sarl.fcr@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "A.C.E.S",
+        "address": "2 route de Muret",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 62 20 00 60",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "eurl.aces@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ECO SOLUTION HABITAT",
+        "address": "2B chemin de Candie",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "06 11 92 45 41",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "eco.solution.habitat@outlook.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "MUNIERA PLOMBERIE",
+        "address": "2 RUE DOMINIQUE INGRES",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "06 69 93 31 58",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "munieraplomberie@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "COTE CHAUFFAGE ET CLIM",
+        "address": "15 RUE DES GENETS",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "06 74 86 37 66",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "cote.chauffage.clim@outlook.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "OCCI ENERGIES",
+        "address": "15 AVENUE FRANCOIS LACHAMBRE",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "06 03 58 08 51",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "occi.energies@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "PACT LDO",
+        "address": "46 RUE LATECOERE",
+        "commune": "31600 MURET",
+        "telephone": "06 45 17 71 79",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "pact.ldolirola@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "TPCC",
+        "address": "60 AVENUE JACQUES DOUZANS APT 8",
+        "commune": "31600 MURET",
+        "telephone": "07 49 20 80 88",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "tpcc31@outlook.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "MC ENERGIE",
+        "address": "17 Impasse Roucade",
+        "commune": "31410 LE FAUGA",
+        "telephone": "06 44 25 94 68",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "mc.energie@outlook.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ICY DESIGN",
+        "address": "14 Quartier St Hubert",
+        "commune": "31410 LAVERNOSE LACASSE",
+        "telephone": "06 58 11 87 85",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "icy.design31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "AT Brothers",
+        "address": "4 RUE D OCCITANIE",
+        "commune": "31600 LABASTIDETTE",
+        "telephone": "05 34 56 83 84",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "atschit.brothers@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "HFC SERVICES",
+        "address": "282 route du Plantaurel",
+        "commune": "31860 LABARTHE SUR LEZE",
+        "telephone": "05 61 76 40 61",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "admin@hfcservices.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "CLIMA6 SERVICES",
+        "address": "2 RUE DU MIDI",
+        "commune": "31270 FROUZINS",
+        "telephone": "05 61 92 33 52",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "contact@clima6.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "ICSSO PLOMBERIE",
+        "address": "36 Rue de la Concorde",
+        "commune": "31270 FROUZINS",
+        "telephone": "07 83 07 30 66",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "icssoplomberie@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 2,
+        "name": "SUN ICE",
+        "address": "4 rue Pierre Beregovoy",
+        "commune": "31470 FONSORBES",
+        "telephone": "05 61 07 37 68",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "sun.iceclim@wanadoo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "JD TECHNISUD 31",
+        "address": "160 chemin du Jouliou",
+        "commune": "31600 EAUNES",
+        "telephone": "06 74 91 61 02",
+        "sector": "PAC, ECS thermodynamique",
+        "email": "jd.technisud31@outlook.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ENTREPRIS EMERY",
+        "address": "8 RUE DE LA POSTE",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 61 76 44 46",
+        "sector": "PAC, ECS thermodynamique, Chaudière gaz",
+        "email": "sarl.emery@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "PROXISERVE",
+        "address": "5 ALLEE DES SPORTS",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 62 87 68 41",
+        "sector": "PAC, ECS thermodynamique, Chaudière gaz",
+        "email": "jbarbe@proxiserve.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ANGLADE YANNICK (AYPC)",
+        "address": "5 RUE DES PYRENEES ZAC DU MANDARIN",
+        "commune": "31600 EAUNES",
+        "telephone": "06 15 89 05 71",
+        "sector": "PAC, ECS thermodynamique, chaudière gaz",
+        "email": "aypc@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SOLUTION MAG SERVICE",
+        "address": "9 Rue Jean Francois Romieu Batiment C3",
+        "commune": "31600 MURET",
+        "telephone": "05 61 44 58 74",
+        "sector": "PAC, ECS thermodynamique, chaudière gaz, ITI murs, rampants, radiateur, électrique",
+        "email": "contact@solutionmagservice.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SARL ENTREPRISE BELINGUIER ELECTRICITE",
+        "address": "401 CHEMIN DES AGRIES LOT NE6",
+        "commune": "31860 LABARTHE SUR LEZE",
+        "telephone": "06 82 55 06 41",
+        "sector": "PAC, ECS thermodynamique, Photovoltaique",
+        "email": "ebe.nathalie@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "EURL BARBEY Nicolas",
+        "address": "21 Rue Pierre de Fermat",
+        "commune": "31600 MURET",
+        "telephone": "05 32 00 20 51",
+        "sector": "PAC, ECS thermodynamique, photovoltaïque",
+        "email": "nicolasbarbey@sfr.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SOS FROID CLIM",
+        "address": "80 avenue d'Ox",
+        "commune": "31600 MURET",
+        "telephone": "05 34 48 69 04",
+        "sector": "PAC, ECS thermodynamique, Photovoltaïque",
+        "email": "manuel-sosfroidclim@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "J&F SOLUTIONS HABITAT",
+        "address": "8 PASSAGE DE LA GIMONE",
+        "commune": "31270 FROUZINS",
+        "telephone": "07 85 69 09 87",
+        "sector": "PAC, ECS thermodynamique, photovoltaïque",
+        "email": "jf.solutionshabitat@outlook.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "R -GROUPE GENIE CLIMATIQUE",
+        "address": "5 Impasse Camus",
+        "commune": "31120 ROQUETTES",
+        "telephone": "05 82 95 65 63",
+        "sector": "PAC, ECS thermodynamique, Photovoltaïques",
+        "email": "bernard.rosa@r2gc.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ALLIANCE CONFORT CLIMATIQUE",
+        "address": "39T rue de Beaucru",
+        "commune": "31120 ROQUETTES",
+        "telephone": "06 33 77 65 92",
+        "sector": "PAC, ECS thermodynamique, Photovoltaïques",
+        "email": "f.daulan@acclimatique.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "BL CHAUFFAGE CLIMATISATION",
+        "address": "1 Chemin de la Louge",
+        "commune": "31410 LAVERNOSE LACASSE",
+        "telephone": "06 24 85 63 17",
+        "sector": "PAC, ECS thermodynamique, Poêle ou insert bois",
+        "email": "contact@bl2c.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "MSI - LERAN DAVID",
+        "address": "79 CHEMIN DU MOUREOU",
+        "commune": "31470 SAINT THOMAS",
+        "telephone": "06 14 88 97 16",
+        "sector": "PAC, ECS thermodynamique, radiateur électrique, VMC",
+        "email": "msileran@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "EURL CHAUFFAGE ET CLIMATISATION DU",
+        "address": "8E ROUTE DE MURET",
+        "commune": "31600 SAUBENS",
+        "telephone": "09 70 66 70 84",
+        "sector": "PAC, ECS thermodynamique, VMC",
+        "email": "contact@2cm31.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SPOBAM",
+        "address": "11 RUE DE LA BRUYERE",
+        "commune": "31120 PINSAGUEL",
+        "telephone": "05 61 98 30 34",
+        "sector": "PAC, ECS thermodynamique, VMC, chaudière gaz, radiateur électrique",
+        "email": "a.monetti@acc-groupespobam.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ENR RENOV",
+        "address": "33 ROUTE DE FRANCAZAL",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "09 51 46 84 86",
+        "sector": "PAC, ECS thermodynamique, VMC, Photovoltaïque",
+        "email": "enr.renov@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "CLIM ET CHAUFF",
+        "address": "23 rue de Neouvielle",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 61 76 48 44",
+        "sector": "PAC, ECS thermodynamique, VMC, Photovoltaïque",
+        "email": "contact@climetchauff.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "VERTENER",
+        "address": "1 Boulevard Lamasquère",
+        "commune": "31600 MURET",
+        "telephone": "05 40 80 43 00",
+        "sector": "PAC, ECS thermodynamique,Chauffage/ECS solaire, VMC, Photovoltaïque",
+        "email": "jamesdeal@vertener.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "CYNERGIE",
+        "address": "4475 CHEMIN DE COULOUME",
+        "commune": "31600 SEYSSES",
+        "telephone": "07 85 54 14 65",
+        "sector": "Photovoltaïque",
+        "email": "cynergie31@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "BECCHIO ELECTRICITE",
+        "address": "11 rue des dolomites",
+        "commune": "31600 SAUBENS",
+        "telephone": "06 74 61 27 13",
+        "sector": "Photovoltaïque",
+        "email": "tdy31@live.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "AETL",
+        "address": "40 Rue des Alouettes",
+        "commune": "31470 SAINT LYS",
+        "telephone": "06 71 78 69 78",
+        "sector": "Photovoltaïque",
+        "email": "aetl31@laposte.net",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "MECOWORKS",
+        "address": "18 AVENUE MARCONI ZAC DU BOUTET",
+        "commune": "31470 SAINT LYS",
+        "telephone": "05 61 91 72 14",
+        "sector": "Photovoltaïque",
+        "email": "info@mecoworks.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "TECSO",
+        "address": "8 CHEMIN DES MESANGES",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 62 20 53 54",
+        "sector": "Photovoltaïque",
+        "email": "administratif@tecso-sas.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ENTREPRISE BARDE SUD-OUEST",
+        "address": "230 AVENUE DES PYRENEES",
+        "commune": "31600 MURET",
+        "telephone": "05 34 60 64 89",
+        "sector": "Photovoltaïque",
+        "email": "sabine.jeandon@omexom.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SAS D'PE",
+        "address": "25 RUE DU LANGUEDOC",
+        "commune": "31600 MURET",
+        "telephone": "05 34 53 22 29",
+        "sector": "Photovoltaïque",
+        "email": "dpe@sasdpe.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SLOWATT",
+        "address": "17 rue Pierre de Fermat",
+        "commune": "31600 MURET",
+        "telephone": "05 62 23 39 40",
+        "sector": "Photovoltaïque",
+        "email": "contact@luchinetfils.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "NEOTECH",
+        "address": "1595 AVENUE DU LAURAGAIS",
+        "commune": "31860 LABARTHE SUR LEZE",
+        "telephone": "06 13 48 81 30",
+        "sector": "Photovoltaïque",
+        "email": "cyrilmogno@hotmail.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SASU BRUSELEC",
+        "address": "1680 ROUTE DE TARBES",
+        "commune": "31470 FONSORBES",
+        "telephone": "07 56 91 90 91",
+        "sector": "Photovoltaïque",
+        "email": "bruselec@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ECOCONNECT",
+        "address": "2 CHEMIN DE LA SAUDRUNE",
+        "commune": "31120 ROQUES SUR GARONNE",
+        "telephone": "07 88 98 35 33",
+        "sector": "Photovoltaïques",
+        "email": "a.lamsaoui@eco-connect.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ALIBERT ET FILS",
+        "address": "ROUTE DE LAVERNOSE LE PRIEURE",
+        "commune": "31410 LONGAGES",
+        "telephone": "05 61 87 47 16",
+        "sector": "Poêle et insert bois, VMC, chaudière bois, PAC, chaudière gaz, ECS, thermodynamique, radiateur électrique, Photovoltaïque",
+        "email": "alibert@alibert-sa.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "POELES ET PELLETS OCCITANS",
+        "address": "6 Avenue des Muriers Lieu dit la Come",
+        "commune": "31120 ROQUES SUR GARONNE",
+        "telephone": "05 34 46 20 58",
+        "sector": "Poêle ou insert bois",
+        "email": "contact@p-p-o.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "DISTRICHAZ",
+        "address": "1 Avenue de l'Enclos Pavillon n°4",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 32 59 08 67",
+        "sector": "Poêle ou insert bois",
+        "email": "magasin.toulouse@chazelles.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "DOMALIS 31",
+        "address": "4 chemin de Candie",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "05 61 41 60 59",
+        "sector": "Poêle ou insert bois",
+        "email": "c.cosme@domalis.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "COULEUR FLAMME",
+        "address": "14 bis avenue Bernard IV",
+        "commune": "31600 MURET",
+        "telephone": "06 64 35 45 44",
+        "sector": "Poêle ou insert bois",
+        "email": "frederic.seguela3@orange.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "LE CONFORT DU FEU",
+        "address": "21 Rue Pierre De Fermat Lot 14",
+        "commune": "31600 MURET",
+        "telephone": "05 61 44 17 84",
+        "sector": "Poêle ou insert bois",
+        "email": "alonsobatiment@yahoo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "FORN",
+        "address": "9 Rue Jean François Romieu",
+        "commune": "31600 MURET",
+        "telephone": "05 61 44 47 65",
+        "sector": "Poêle ou insert bois",
+        "email": "forn@forn.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SARL GAETAN GALIANA",
+        "address": "8 Rue Cérisols",
+        "commune": "31410 LE FAUGA",
+        "telephone": "05 61 87 33 21",
+        "sector": "Poêle ou insert bois",
+        "email": "gaetan.galiana@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "MAISON PLUS",
+        "address": "8 rue Béarn ZAC du Mandarin",
+        "commune": "31600 EAUNES",
+        "telephone": "05 61 90 78 74",
+        "sector": "Poêle ou insert bois",
+        "email": "maisonplus31.cb@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "VAUTIER ET FILS",
+        "address": "9 Rue Jean François Romieu",
+        "commune": "31600 MURET",
+        "telephone": "05 62 86 96 94",
+        "sector": "Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, PAC, ECS, thermodynamique, chaudière gaz, VMC, Photovoltaïque",
+        "email": "contact@chauffage-vautier.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "THERMONEO - SARL 2AVF ENERGIES",
+        "address": "ZA DESCAILLAUX",
+        "commune": "31430 ST ELIX LE CHÂTEAU",
+        "telephone": "05 61 97 64 23",
+        "sector": "Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, PAC, ECS, thermodynamique, chaudière gaz, VMC, Photovoltaïque",
+        "email": "contact@thermoneo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "ALTER ENERGIES",
+        "address": "8 CHEMIN DE CARNAVAL",
+        "commune": "31220 MARTRES TOLOSANE",
+        "telephone": "05 61 98 56 91",
+        "sector": "Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, VMC, Photovoltaïque",
+        "email": "contact@alterenergies.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 3,
+        "name": "SOLENEO ENERGIES NOUVELLES",
+        "address": "72 CHEMIN DE L'INDUSTRIE",
+        "commune": "31390 CARBONNE",
+        "telephone": "05 61 97 62 12",
+        "sector": "Poêle ou insert bois, chaudière bois, Chauffage/ECS solaire, VMC, Photovoltaïque",
+        "email": "mathieu@soleneo.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "HTS",
+        "address": "135 chemin de Lacombe",
+        "commune": "31600 MURET",
+        "telephone": "06 03 69 43 68",
+        "sector": "Poêle ou insert bois, chaudière bois, PAC, Chauffage/ECS solaire, ECS, thermodynamique",
+        "email": "contact@hts-enr.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "ECO-LOGIS SYSTEMS",
+        "address": "40 route de Seysses",
+        "commune": "31470 FONSORBES",
+        "telephone": "06 24 56 79 17",
+        "sector": "Poêle ou insert bois, chaudière bois, PAC, ECS thermodynamique",
+        "email": "thirioux@ecologis-systems.com",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "GENERAL PROHABITAT",
+        "address": "21 AVENUE DE LA CEPETTE",
+        "commune": "31860 PINS-JUSTARET",
+        "telephone": "06 21 64 82 45",
+        "sector": "Projet complet de rénovation",
+        "email": "general.prohabitat@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "CONSTRUCTIONS MURETAINES",
+        "address": "2 RUE AYME KUNC",
+        "commune": "31600 MURET",
+        "telephone": "05 62 23 25 65",
+        "sector": "Projet complet de rénovation",
+        "email": "constructions.muretaines@gmail.com",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "ICCSER",
+        "address": "3 CHEMIN DE LABARTHE",
+        "commune": "31600 LABASTIDETTE",
+        "telephone": "05 62 20 39 85",
+        "sector": "VMC, poêle ou insert bois, chaudière bois, PAC, chaudière gaz, chauffage/ECS solaire, ECS thermodynamique, Photovoltaïque",
+        "email": "contact@iccser.fr",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "COMMINGES ELECTRICITE",
+        "address": "44 RUE MARCLAN",
+        "commune": "31600 MURET",
+        "telephone": "05 61 08 16 18",
+        "sector": "VMC, radiateur électrique",
+        "email": "secretariat@commingeselectricite.com",
+        "is_groupement": false
+    },
+    {
+        "page": 4,
+        "name": "Les Professionnels Occitans",
+        "address": "ZAC du Mandarin",
+        "commune": "31600 EAUNES",
+        "telephone": "05 32 98 03 04",
+        "sector": "Multi travaux (voir www.professionnels-occitans.com)",
+        "email": "contact@pro-occitans.com",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "SARL GAETAN GALIANA",
+        "address": "8 Rue Cérisols",
+        "commune": "31410 LE FAUGA",
+        "telephone": "05 61 87 33 21",
+        "sector": "Poêle ou insert bois",
+        "email": "gaetan.galiana@gmail.com",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "KIISOL",
+        "address": "37 bis chemin des Palanques Sud",
+        "commune": "31120 PORTET SUR GARONNE",
+        "telephone": "06 10 93 70 09",
+        "sector": "ITI murs, rampants, combles perdus, ITE toiture, plancher bas, VMC, fenêtres de toit",
+        "email": "contact@kiisol.fr",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "MPEP",
+        "address": "ZAC du Mandarin",
+        "commune": "31600 EAUNES",
+        "telephone": "05 34 48 65 56",
+        "sector": "Menuiseries",
+        "email": "contact@mpep31.com",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "TH BEGUE",
+        "address": "1560 route de corronsac",
+        "commune": "31810 VENERQUE",
+        "telephone": "06 03 52 83 32",
+        "sector": "PAC, ECS Thermodynamique, Chaudière bois, Poêle ou insert bois",
+        "email": "th.begue@free.fr",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "TRADIFACE",
+        "address": "343 Chemin d’Engoudes",
+        "commune": "31450 BAZIEGE",
+        "telephone": "09 83 77 27 97",
+        "sector": "ITE murs",
+        "email": "tradi-face@orange.fr",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "ACTION CLIM",
+        "address": "17 voie Eris ZA Pompignal",
+        "commune": "31190 MIREMONT",
+        "telephone": "05 61 50 55 77",
+        "sector": "PAC, ECS Thermodynamique",
+        "email": "jc.gabriel@action-clim.com",
+        "is_groupement": true
+    },
+    {
+        "page": 4,
+        "name": "SUD SOLAIRE EXPERT",
+        "address": "88 avenue de Bouconne",
+        "commune": "31530 LEVIGNAC",
+        "telephone": "05 61 15 48 49",
+        "sector": "Photovoltaïque",
+        "email": "contact@sud-solaire-expert.fr",
+        "is_groupement": true
+    }
+]
