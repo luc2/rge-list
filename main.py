@@ -2,6 +2,10 @@ import json
 from pathlib import Path
 from pprint import pprint
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 COMPANIES_FILENAME = "entreprises_rge.json"
 
 
