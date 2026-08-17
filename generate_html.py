@@ -10,7 +10,7 @@ for idx, e in enumerate(data):
         rows.append({
             "orig_idx": idx + 1,
             "name": e["name"],
-            "commune": e.get("commune", ""),
+            "sector": e.get("sector", ""),
             "total_reviews": g["total_reviews"],
             "rating": g.get("rating"),
             "match_score": g.get("match_score", 0),
@@ -140,7 +140,7 @@ html = f"""<!DOCTYPE html>
     <tr>
       <th onclick="sortTable(0,'num')">N° liste <span class="arrow"></span></th>
       <th onclick="sortTable(1,'str')">Nom de l'artisan <span class="arrow"></span></th>
-      <th onclick="sortTable(2,'str')">Commune <span class="arrow"></span></th>
+      <th onclick="sortTable(2,'str')">Secteur <span class="arrow"></span></th>
       <th onclick="sortTable(3,'num')">Avis Google <span class="arrow"></span></th>
       <th onclick="sortTable(4,'num')">Note <span class="arrow"></span></th>
       <th onclick="sortTable(5,'num')">Match Score <span class="arrow"></span></th>
@@ -185,7 +185,7 @@ function renderTable(data) {{
     tr.innerHTML = `
       <td>${{r.orig_idx}}</td>
       <td><strong>${{r.name}}</strong></td>
-      <td>${{r.commune}}</td>
+      <td>${{r.sector}}</td>
       <td>${{r.total_reviews}}</td>
       <td>${{starsHTML(r.rating)}}</td>
       <td><span class="match-badge" style="background:${{bgColor}}; color:#fff">${{r.match_score}} / 5</span></td>
@@ -210,7 +210,7 @@ function sortTable(col, type) {{
   if (sortCol === col) {{ sortAsc = !sortAsc; }}
   else {{ sortCol = col; sortAsc = true; }}
 
-  const keys = ['orig_idx','name','commune','total_reviews','rating','match_score'];
+  const keys = ['orig_idx','name','sector','total_reviews','rating','match_score'];
   DATA.sort((a, b) => {{
     let va, vb;
     va = a[keys[col]]; vb = b[keys[col]];
@@ -227,7 +227,7 @@ function sortTable(col, type) {{
 
 function filterTable() {{
   const q = document.getElementById('search').value.toLowerCase();
-  const filtered = DATA.filter(r => r.name.toLowerCase().includes(q) || r.commune.toLowerCase().includes(q) || String(r.orig_idx).includes(q));
+  const filtered = DATA.filter(r => r.name.toLowerCase().includes(q) || r.sector.toLowerCase().includes(q) || String(r.orig_idx).includes(q));
   renderTable(filtered);
 }}
 
