@@ -37,6 +37,27 @@ Où récupérer des évaluations ? Euh... de **Google Maps** je pense...
 Stream
 ------
 
+### Lundi 17 Août 2026
+
+**OpenCode**, c'est excellent :
+
+```
+$ curl -fsSL https://opencode.ai/install | bash
+curl: (22) The requested URL returned error: 429
+```
+
+- `opencode-desktop-linux-amd64.deb`
+
+```
+$ opencode
+opencode : commande introuvable
+$ find / -iname opencode 2>/dev/null
+$ cd /opt/OpenCode
+$ ./ai.opencode.desktop 
+```
+
+Pendant la discussion, ce connard m'a installé **OpenCode Terminal** sans que je le demande...
+
 ### Dimanche 2 Août 2026
 
 1. Monsieur Shape581 tente de le faire en C#...
