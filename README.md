@@ -8,7 +8,7 @@ Tentative de coder en stream sur **Twitch**, avec des gens qui participent en fa
 
 Branche la plus récente : `feat/ratings`
 
-État actuel de cette tentative : C'est le bordel, des branches dans tous les sens ^^;
+État actuel de cette tentative : C'est le bordel, des branches dans tous les sens ^^; Il faudra faire mieux la prochaine fois...
 
 Objectif
 --------
