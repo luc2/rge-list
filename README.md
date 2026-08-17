@@ -13,6 +13,12 @@ On va demander à l'IA de nous aider, et elle va nous énerver à mort.
 Stream
 ------
 
+### Lundi 17 Août 2026
+
+**Github** est nul :
+
+> Cannot retrieve latest commit at this time.
+
 ### Jeudi 9 Juillet 2026
 
 Mon micro est à chier, je vais tester le **micro de ma barre de son** : Zéro filtre OBS, ça va être infernal.
