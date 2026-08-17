@@ -1,6 +1,8 @@
 import json
 import os
+import re
 import time
+import unicodedata
 from pathlib import Path
 
 import httpx
@@ -38,11 +40,50 @@ def save_companies(companies: list[dict]) -> None:
         json.dump(companies, f, ensure_ascii=False, indent=4)
 
 
+def normalize(text: str) -> str:
+    text = text.lower().strip()
+    text = unicodedata.normalize("NFD", text)
+    text = "".join(c for c in text if unicodedata.category(c) != "Mn")
+    text = re.sub(r"[^\w\s]", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def normalize_phone(phone: str) -> str:
+    return re.sub(r"[^\d]", "", phone)
+
+
+def score_place(place: dict, company: dict) -> int:
+    score = 0
+
+    g_name = normalize(place.get("displayName", {}).get("text", ""))
+    c_name = normalize(company["name"])
+    if g_name == c_name:
+        score += 2
+    elif c_name in g_name or g_name in c_name:
+        score += 1
+
+    g_addr = normalize(place.get("formattedAddress", ""))
+    c_addr = normalize(company["address"])
+    if c_addr and c_addr in g_addr:
+        score += 1
+
+    c_commune = normalize(company["commune"])
+    if c_commune in g_addr:
+        score += 1
+
+    g_phone = normalize_phone(place.get("nationalPhoneNumber", ""))
+    c_phone = normalize_phone(company.get("telephone", ""))
+    if c_phone and g_phone and (c_phone.endswith(g_phone[-8:]) or g_phone.endswith(c_phone[-8:])):
+        score += 1
+
+    return score
+
+
 def build_query(company: dict) -> str:
     return f"{company['name']} {company['commune']}"
 
 
-def search_place(client: httpx.Client, query: str) -> dict | None:
+def search_places(client: httpx.Client, query: str) -> tuple[list[dict], int]:
     resp = client.post(
         PLACES_SEARCH_URL,
         headers={
@@ -58,12 +99,13 @@ def search_place(client: httpx.Client, query: str) -> dict | None:
     )
     resp.raise_for_status()
     places = resp.json().get("places", [])
-    return places[0] if places else None
+    return places, len(places)
 
 
-def extract_google_info(place: dict) -> dict:
+def extract_google_info(place: dict, total_results: int) -> dict:
     display_name = place.get("displayName", {})
     return {
+        "total_results": total_results,
         "place_id": place.get("id"),
         "name": display_name.get("text"),
         "address": place.get("formattedAddress"),
@@ -91,13 +133,18 @@ def enrich_company(client: httpx.Client, company: dict, index: int, total: int) 
     query = build_query(company)
     print(f"[{index + 1}/{total}] {company['name']} -> '{query}'")
 
-    place = search_place(client, query)
-    if not place:
+    places, total_results = search_places(client, query)
+    if not places:
         print(f"  Aucun résultat trouvé")
-        return {**company, "google": None}
+        return {**company, "google": None, "total_results": 0}
 
-    google_info = extract_google_info(place)
-    print(f"  -> note={google_info.get('rating')}, avis={google_info.get('total_reviews', 0)}")
+    scored = [(score_place(p, company), p) for p in places]
+    scored.sort(key=lambda x: x[0], reverse=True)
+    best_score, best_place = scored[0]
+
+    google_info = extract_google_info(best_place, total_results)
+    google_info["match_score"] = best_score
+    print(f"  -> score={best_score}/{len(scored)} résultats, note={google_info.get('rating')}, avis={google_info.get('total_reviews', 0)}")
     return {**company, "google": google_info}
 
 
