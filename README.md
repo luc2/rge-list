@@ -1,6 +1,15 @@
 rge-list
 ========
 
+Description
+-----------
+
+Tentative de coder en stream sur **Twitch**, avec des gens qui participent en faisant des **Pull Requests**.
+
+Branche la plus récente : `feat/ratings`
+
+État actuel de cette tentative : C'est le bordel, des branches dans tous les sens ^^;
+
 Objectif
 --------
 
